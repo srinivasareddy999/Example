@@ -1,6 +1,6 @@
-.h1
-{ 
+h1
+{
     color: blue;
-    background-color: black;
-    margin-block-end: auto;
+    background-color: chartreuse;
+    padding: center;
 }
